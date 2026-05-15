@@ -13,6 +13,8 @@ This repo contains several top-level files and folders providing documentation f
 
 **Demos** - Demo video of the final product
 
+**Electrical** - All KiCAD files for this project
+
 **CAD** - Contains images of the CAD model, STEP files for each part and assembly, and a link to the public Onshape document for this project
 
 **Code** - Contains all firmware for the ventilator
